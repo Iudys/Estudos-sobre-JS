@@ -9,4 +9,4 @@ const template =  `
     console.log(`1 + 1 = ${1 +1}`) // crase seve para bugar minha mente kkk e utilizar o $
 
     const up = texto => texto.toUpperCase()
-    console.log(`Ei... ${up('cuidado')}!`)
+    console.log(`Ei... ${up('cuidado')}!`) 
